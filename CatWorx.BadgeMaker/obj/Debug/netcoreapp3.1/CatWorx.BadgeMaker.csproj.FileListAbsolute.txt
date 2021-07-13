@@ -1,0 +1,12 @@
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.deps.json
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.dev.json
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfo.cs
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
+/Users/grace/seesharp/examplemodule1/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.genruntimeconfig.cache
